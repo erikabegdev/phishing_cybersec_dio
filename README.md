@@ -125,6 +125,13 @@ Alguns sinais comuns incluem:
 A melhor defesa contra Phishing combina **conscientização do usuário, autenticação multifator, filtros de segurança e análise cuidadosa de links e domínios**.
 
 ---
+## 🧩 **Teste**
+
+<img width="2560" height="1300" alt="03" src="https://github.com/user-attachments/assets/9820a810-f912-4ecd-8fa5-154e86eee2f2" />
+
+<img width="1256" height="1010" alt="01" src="https://github.com/user-attachments/assets/58f6d264-a248-4c0b-9048-c3124a78a526" />
+
+---
 
 ## 📚 Aprendizados
 

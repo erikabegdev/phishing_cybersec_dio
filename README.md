@@ -131,6 +131,8 @@ A melhor defesa contra Phishing combina **conscientização do usuário, autenti
 
 <img width="1256" height="1010" alt="01" src="https://github.com/user-attachments/assets/58f6d264-a248-4c0b-9048-c3124a78a526" />
 
+<img width="1831" height="560" alt="05" src="https://github.com/user-attachments/assets/e23fe5a3-62a3-41cf-9541-10eef0258b7d" />
+
 ---
 
 ## 📚 Aprendizados
